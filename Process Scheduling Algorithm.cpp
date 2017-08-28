@@ -1,5 +1,4 @@
 #include<iostream>
-#include<iostream>
 #include<GL/glut.h>
 using namespace std;
 #define FCFS 0
